@@ -6,6 +6,8 @@
 //  Copyright © 2017 Abhishek Khedekar. All rights reserved.
 //
 
+// sample Project Link https://github.com/ThornTechPublic/HorizontalScrollingCollectionView
+
 import UIKit
 
 class ProductZoomingViewController: UIViewController,UIScrollViewDelegate {
